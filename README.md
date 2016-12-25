@@ -9,7 +9,6 @@ http://wenku.baidu.com/view/afe4e42cb4daa58da0114acf.html?from=search
 
 
 自动化回归测试在Java项目中的实现 
-http://wenku.baidu.com/view/f0017c09b307e87101f69668.html?from=search
 http://wenku.baidu.com/view/96ffcf6026284b73f242336c1eb91a37f11132a5.html?from=search
 
 
